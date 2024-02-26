@@ -16,6 +16,10 @@
         grid-column: 1 / 3;
     }
 
+    .reviews {
+        gap: 40px;
+    }
+
     .team__item {
         justify-content: space-between;
     }
@@ -28,6 +32,8 @@
         justify-content: center;
         gap: 15px;
     }
+
+
 
     .library__item:nth-of-type(2),
     .library__item:nth-of-type(3) {

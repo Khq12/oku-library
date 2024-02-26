@@ -312,6 +312,7 @@ header {
     padding: 0 15px;
     display: flex;
     align-items: center;
+    gap: 60px;
 }
 
 .review__left {
@@ -320,7 +321,7 @@ header {
     justify-content: center;
     align-items: center;
     gap: 26px;
-    padding: 110px 60px 100px 32px;
+    max-width: 408px;
 }
 
 .review__left-title {
